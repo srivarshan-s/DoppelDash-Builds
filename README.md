@@ -8,10 +8,11 @@ Use the help of your Doppelgänger to dash through dynamic environments, solve p
 
 ## Available Builds
 
-### Latest Release: alpha-v2
+### Latest Release: beta-v2
 
 | Version | Playable Link |
 |----------|---------------|
+| Beta V2 | [Link](https://srivarshan-s.github.io/DoppelDash-Builds/beta-v2/index.html) |
 | Beta V1 | [Link](https://srivarshan-s.github.io/DoppelDash-Builds/beta-v1/index.html) |
 | Alpha V2 | [Link](https://srivarshan-s.github.io/DoppelDash-Builds/alpha-v2/index.html) |
 | Alpha | [Link](https://srivarshan-s.github.io/DoppelDash-Builds/alpha/index.html) |
