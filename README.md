@@ -13,6 +13,7 @@ Use the help of your Doppelgänger to dash through dynamic environments, solve p
 | Version | Playable Link |
 |----------|---------------|
 | Gold V1 | [Link](https://srivarshan-s.github.io/DoppelDash-Builds/gold-v1/index.html) |
+| Beta V4 | [Link](https://srivarshan-s.github.io/DoppelDash-Builds/beta-v4/index.html) |
 | Beta V3 | [Link](https://srivarshan-s.github.io/DoppelDash-Builds/beta-v3/index.html) |
 | Beta V2 | [Link](https://srivarshan-s.github.io/DoppelDash-Builds/beta-v2/index.html) |
 | Beta V1 | [Link](https://srivarshan-s.github.io/DoppelDash-Builds/beta-v1/index.html) |
